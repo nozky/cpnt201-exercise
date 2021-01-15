@@ -2,4 +2,4 @@
 
 ---
 
-[Github link - https://nozky.github.io/hello-world/](https://nozky.github.io/hello-world/)
+[Github link - https://nozky.github.io/cpnt201-exercise/](https://nozky.github.io/cpnt201-exercise/)
